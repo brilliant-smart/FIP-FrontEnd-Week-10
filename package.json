@@ -2,7 +2,7 @@
   "name": "week-ten",
   "private": true,
   "homepage": "https://brilliant-smart.github.io/FIP-FrontEnd-Week-10/",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
